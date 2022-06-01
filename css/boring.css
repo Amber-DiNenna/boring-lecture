@@ -1,11 +1,15 @@
+h1.intro {
+  color: darkgrey;
+}
+
 h2.intro {
-  color: red;
+  color: maroon;
 }
 
 p.intro {
-  color: blue;
+  color: olive;
 }
 
 img.intro {
-  color: green;
+  justify-content: center;
 }
