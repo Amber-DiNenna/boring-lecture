@@ -1,15 +1,7 @@
-h1.intro {
-  color: darkgrey;
-}
-
-h2.intro {
+.important {
   color: maroon;
 }
 
-p.intro {
+.unimportant {
   color: olive;
-}
-
-img.intro {
-  justify-content: center;
 }
