@@ -5,3 +5,11 @@
 .unimportant {
   color: olive;
 }
+
+.highlight {
+  background-color: yellow;
+}
+
+.underline {
+  text-decoration: underline;
+}
